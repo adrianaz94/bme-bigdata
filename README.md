@@ -15,7 +15,7 @@ Data manipulation: NumPy [Quick tutorial](https://docs.scipy.org/doc/numpy-dev/u
 
 LAB: Simple data exploration and making notes
 
-
+Adriana Zlahoda
 ## Infrastructure configuration
 
 CPU, GPU, Multinode clusters
