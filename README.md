@@ -73,6 +73,6 @@ LAB: ML with Large Datasets
 ## Bigdata project
 
 LAB: Real-time data processing
-
+AdaKonf
 Stack: Redis, Apache Storm, Flask, d3js, TensorFlow
 KONFLIKT
