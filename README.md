@@ -32,7 +32,7 @@ Docker, Vagrant
 Python, Dask
 
 LAB: Design and execute algorithms on a cluster
-
+KONFG
 
 ## Bigdata platforms
 
