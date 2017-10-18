@@ -75,3 +75,4 @@ LAB: ML with Large Datasets
 LAB: Real-time data processing
 
 Stack: Redis, Apache Storm, Flask, d3js, TensorFlow
+KONFLIKT
