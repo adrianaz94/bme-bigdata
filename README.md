@@ -14,7 +14,7 @@ Using Markdown [3 min tutorial](https://guides.github.com/features/mastering-mar
 Data manipulation: NumPy [Quick tutorial](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html)
 
 LAB: Simple data exploration and making notes
-
+Ada-druga zmiana
 Adriana Zlahoda
 ## Infrastructure configuration
 
